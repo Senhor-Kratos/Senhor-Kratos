@@ -6,7 +6,7 @@
 Economista com experiência em:
 - **Análise de dados**.
 - **Automação de processos** com Python.
-- **Criação de dashboards** em Power BI para tomada de decisão estratégica.
+- **Criação de dashboards** em Power BI para visualização de dados e tomada de decisão.
 
 
 ## 📂 Projetos em Destaque
