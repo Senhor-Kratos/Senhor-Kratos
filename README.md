@@ -14,8 +14,8 @@ Economista com experiência em:
    - Script Python para alocação de veículos em manutenção.
 
 ## 📫 Contato
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) [leonardo.cordeiro010@gmail.com](mailto:leonardo.cordeiro010@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [leonardo Martins](www.linkedin.com/in/leonardo-martins-444910184)
+- ✉️ E-mail: [leonardo.cordeiro010@gmail.com](mailto:leonardo.cordeiro010@gmail.com)
+- 🔗 LinkedIn: [leonardo Martins](www.linkedin.com/in/leonardo-martins-444910184)
 
 ---
 
