@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou Leonardo Martins Cordeiro! 👋
 
-<!--
-**Senhor-Kratos/Senhor-Kratos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Analista de Dados | Python | Power BI**
 
-Here are some ideas to get you started:
+## 🚀 Sobre Mim
+Economista com experiência em:
+- **Análise de dados** setoriais.
+- **Automação de processos** com Python.
+- **Criação de dashboards** em Power BI para tomada de decisão estratégica.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📂 Projetos em Destaque
+1. **[Otimização de Frota - Vega Manaus](link_do_repositorio)**  
+   - Script Python para alocação de veículos em manutenção.
+
+## 📫 Contato
+- ✉️ E-mail: [leonardo.cordeiro010@gmail.com](mailto:leonardo.cordeiro010@gmail.com)
+- 🔗 LinkedIn: [leonardo Martins](www.linkedin.com/in/leonardo-martins-444910184)
+
+---
+
+⭐ **Dica:** Explore meus repositórios para ver projetos completos!
