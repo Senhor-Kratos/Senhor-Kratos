@@ -1,6 +1,6 @@
 # Olá, eu sou Leonardo Martins Cordeiro! 👋
 
-**Analista de Dados | Python | Power BI**
+**Analista de Dados | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) Python | Power BI**
 
 ## 🚀 Sobre Mim
 Economista com experiência em:
