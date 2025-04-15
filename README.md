@@ -1,7 +1,11 @@
 # Olá, eu sou Leonardo Martins Cordeiro! 👋
+<p align="justify">
 Me chamo Leonardo, sou formado em Economia e ao longo da minha jornada tive a oportunidade de automatizar processos, criar dashboards e propor soluções que ajudaram equipes a economizar tempo e reduzir custos — sempre combinando Python, Power BI e Excel na elaboração de relatórios estratégicos e análises operacionais.
+</p>
 
+<p align="justify">
 💡 Sou movido pela curiosidade, gosto de aprender na prática, testar novas ideias e transformar dados em decisões inteligentes.
+</p>
 
 ## 🚀 Sobre Mim
 Economista com experiência em:
