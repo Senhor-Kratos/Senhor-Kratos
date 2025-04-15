@@ -10,7 +10,7 @@ Economista com experiência em:
 
 
 ## 📂 Projetos em Destaque
-1. **[Otimização de Frota - Vega Manaus](link_do_repositorio)**  
+1. **[Otimização de Frota - Vega Manaus]([link_do_repositorio](https://github.com/Senhor-Kratos/Alocao_Veiculos))**  
    - Script Python para alocação de veículos em manutenção.
 
 ## 📫 Contato
