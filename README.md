@@ -20,7 +20,7 @@ Economista com experiência em:
 
 ## 📫 Contato
 - ✉️ E-mail: [leonardo.cordeiro010@gmail.com](mailto:leonardo.cordeiro010@gmail.com)
-- 🔗 LinkedIn: [leonardo Martins](www.linkedin.com/in/leonardo-martins-444910184)
+- 🔗 LinkedIn: [Leonardo Martins](https://www.linkedin.com/in/leonardo-martins-444910184)
 
 ---
 
