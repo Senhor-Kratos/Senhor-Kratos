@@ -16,7 +16,9 @@ Economista com experiência em:
 
 ## 📂 Projetos em Destaque
 1. **[Otimização de Viagens Perdidas](https://github.com/Senhor-Kratos/Alocao_Veiculos)** 
-   - Script Python para alocação de veículos em manutenção.
+   - Script Python para alocação de veículos baseado na penalização financeira.
+2. **[Auditoria de Pagamentos](https://github.com/Senhor-Kratos/Auditoria-de-Pagamentos)**
+   - Script Python para automatizar a conferência de registros de pagamento de benefícios dos funcionários.
 
 ## 📫 Contato
 - ✉️ E-mail: [leonardo.cordeiro010@gmail.com](mailto:leonardo.cordeiro010@gmail.com)
